@@ -1,1 +1,1 @@
-# django_turtle
+Testing for Django platform for turtle project
